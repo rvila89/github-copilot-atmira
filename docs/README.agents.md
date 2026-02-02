@@ -23,8 +23,8 @@ Un agente personalizado es un archivo *.agent.md que define:
 
 | Agent | Description |
 | ----- | ----------- |
-| [Code Optimizer](../agents/code-optimizer.agent.md) | Perform janitorial tasks on C#/.NET code including cleanup, modernization, and tech debt remediation. |
-| [Code Commenter](../agents/code-commenter.agent.md) | Perform janitorial tasks on C#/.NET code including cleanup, modernization, and tech debt remediation. |
-| [Code Explainer](../agents/code-explainer.agent.md) | Perform janitorial tasks on C#/.NET code including cleanup, modernization, and tech debt remediation. |
-| [Code Refactor](../agents/code-refactor.agent.md) | Perform janitorial tasks on C#/.NET code including cleanup, modernization, and tech debt remediation. |
-| [Code Generator](../agents/code-generator.agent.md) | Perform janitorial tasks on C#/.NET code including cleanup, modernization, and tech debt remediation. |
+| [Code Optimizer](../agents/code-optimizer.agent.md) | Agente especializado en análisis y refactorización de código multi‑lenguaje, aplicando principios de Clean Code, SOLID y OWASP, para detectar code smells, bugs y vulnerabilidades, devolviendo una versión más limpia, legible y mantenible junto con un breve informe de hallazgos |
+| [Code Commenter](../agents/code-commenter.agent.md) | Agente especializado en generar comentarios y documentación técnica a partir de código fuente, usando el estándar de comentarios de cada lenguaje para crear documentación clara, profesional y enfocada en la intención del código. |
+| [Code Explainer](../agents/code-explainer.agent.md) | Agente experto en explicar de forma estructurada fragmentos de código en múltiples lenguajes (modernos y legacy), tanto a nivel técnico como funcional, identificando el lenguaje, resumiendo el propósito, detallando el flujo, las reglas de negocio, los riesgos y generando versiones comentadas del código. |
+| [Code Refactor](../agents/code-refactor.agent.md) | Asistente experto en refactorización y modernización de código que genera una vista antes/después, aplica buenas prácticas modernas y explica claramente los cambios y beneficios. |
+| [Code Generator](../agents/code-generator.agent.md) | Agente especializado en generación automática de código a partir de especificaciones, plantillas o ejemplos, facilitando la creación rápida y consistente de componentes, módulos o servicios en múltiples lenguajes y frameworks. |
