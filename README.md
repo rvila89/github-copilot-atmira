@@ -1,17 +1,3 @@
-GitHub Copilot puede proporcionar respuestas adaptadas a la forma de trabajar de tu equipo, las herramientas que usas o las particularidades de tu proyecto, siempre que le proporciones el contexto suficiente. En lugar de añadir repetidamente este contexto a tus indicaciones, puedes crear archivos en tu repositorio que agreguen esta información automáticamente.
-
-Hay dos tipos de archivos que puedes usar para proporcionar contexto e instrucciones a Copilot en VS Code:
-
-Las instrucciones personalizadas del repositorio le permiten especificar instrucciones y preferencias que Copilot considerará cuando trabaje en el contexto del repositorio.
-Prompt files permiten guardar instrucciones comunes y contexto relevante en archivos Markdown ( *.prompt.md) que luego se pueden reutilizar en las indicaciones del chat. Los archivos de indicaciones solo están disponibles en los IDE de VS Code, Visual Studio y JetBrains.
-
-Mientras que las instrucciones personalizadas ayudan a agregar contexto a todo el código base a cada flujo de trabajo de IA, los archivos de indicaciones le permiten agregar instrucciones a una interacción de chat específica.
-
-Habilidades versus instrucciones personalizadas
-Puede utilizar habilidades e instrucciones personalizadas para enseñar a Copilot cómo trabajar en su repositorio y cómo realizar tareas específicas.
-
-Recomendamos utilizar instrucciones personalizadas para instrucciones simples relevantes para casi todas las tareas (por ejemplo, información sobre los estándares de codificación de su repositorio) y habilidades para instrucciones más detalladas a las que Copilot debería acceder cuando sea relevante.
-
 # 🤖 Atmira GitHub Copilot
 
 Bienvenidos al respositorio corporativo para la **gestión, organización y escalado del uso de GitHub Copilot** en los IDEs de la compañía.
