@@ -1,6 +1,6 @@
 # 🤖 PR Documenter — Agente de Análisis Funcional y Documentación de Pull Requests (Formato Banca March)
 Agente personalizado de GitHub Copilot que analiza los cambios entre la rama actual y la rama destino en un repositorio Git, identifica su impacto funcional y genera documentación en Markdown siguiendo estrictamente el Formato Banca March. Se enfoca en flujos, reglas de negocio y comportamientos modificados, no en archivos individuales.
-Índice
+
 
 **Autor(es):** Francisco José Mellado  
 **Equipo/Área responsable:** Banca March Front

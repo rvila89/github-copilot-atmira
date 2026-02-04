@@ -31,7 +31,7 @@ Analiza los cambios realizados en la rama actual en comparación con la rama des
    - Ejecuta el comando: `git rev-parse --abbrev-ref HEAD`
 2. **Extrae del nombre de la rama:**
    - Clave JIRA (formato: `[A-Z]+-[0-9]+`)
-   - Rama destino del sufijo `-TO-<destino>`. Las ramas detino suelen ser: 'develop', 'test', 'master' o comenzar por 'release/'. El '<destino>' suele expresarse en mayúsculas (DEV, TEST, MASTER, RELEASE).
+   - Rama destino del sufijo `-TO-<destino>`. Las ramas destino suelen ser: 'develop', 'test', 'master' o comenzar por 'release/'. El '<destino>' suele expresarse en mayúsculas (DEV, TEST, MASTER, RELEASE).
    - Rama base (nombre sin el sufijo `-TO-<destino>`)
 3. **Obtener los cambios entre la rama actual y la rama destino:**
    - Ejecuta el comando: `git diff <rama-destino>...<rama-actual>`
